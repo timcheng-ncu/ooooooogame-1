@@ -3,5 +3,6 @@ public class Main {
 		Data.start();
 		Graphics.start();
 		Logic.start();
+		Sound.start();
 	}
 }
