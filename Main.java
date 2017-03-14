@@ -1,9 +1,5 @@
 public class Main {
 	public static void main(String[] args) {
-		Data.start();
-		Graphics.start();
-		Logic.start();
-		Sound.start();
-		Network.start();
+		Control.start();
 	}
 }
