@@ -4,5 +4,6 @@ public class Main {
 		Graphics.start();
 		Logic.start();
 		Sound.start();
+		Network.start();
 	}
 }
