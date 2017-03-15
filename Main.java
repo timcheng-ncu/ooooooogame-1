@@ -6,5 +6,7 @@ public class Main {
 		Network.start();
 		Sound.start();
 		Control.start();
+		//example
+		//example
 	}
 }
