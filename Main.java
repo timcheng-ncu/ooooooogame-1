@@ -5,5 +5,6 @@ public class Main {
 		Logic.start();
 		Network.start();
 		Sound.start();
+		Control.start();
 	}
 }
